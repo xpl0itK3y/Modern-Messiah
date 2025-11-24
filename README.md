@@ -191,7 +191,7 @@ const developer = {
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ВАШ_USERNAME/Modern-Messiah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Modern-Messiah/Modern-Messiah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
