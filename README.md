@@ -16,7 +16,7 @@
 
 ```javascript
 const developer = {
-    name: "Ваше Имя",
+    name: "Владимир",
     location: "Казахстан 🇰🇿",
     role: "Full Stack Developer & Bot Developer",
     code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
